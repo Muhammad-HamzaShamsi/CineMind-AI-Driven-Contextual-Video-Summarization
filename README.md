@@ -59,6 +59,6 @@
 
 ## Author
 
-- **Muhammad Shoaib**  
+- **Muhammad Hamza**  
   Built with passion 🚀
 ```
